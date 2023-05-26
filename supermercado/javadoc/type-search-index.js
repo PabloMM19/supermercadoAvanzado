@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.hibernate.gui","l":"App"},{"p":"com.hibernate.model","l":"Categoria"},{"p":"com.hibernate.dao","l":"CategoriaDAO"},{"p":"com.hibernate.util","l":"HibernateUtil"},{"p":"com.hibernate.model","l":"Producto"},{"p":"com.hibernate.dao","l":"ProductoDAO"}];updateSearchResults();
